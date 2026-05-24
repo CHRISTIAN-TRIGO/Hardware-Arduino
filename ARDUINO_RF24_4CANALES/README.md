@@ -129,10 +129,10 @@ El receptor escucha continuamente ese canal. Al detectar un dato entrante, conmu
  
 | Salida      | Arduino Nano |
 |-------------|--------------|
-| LED/Rele 1  | D2           |
-| LED/Rele 2  | D3           |
-| LED/Rele 3  | D4           |
-| LED/Rele 4  | D5           |
+| LED1        | D2           |
+| LED2        | D3           |
+| LED3        | D4           |
+| LED4        | D5           |
 | Monitor TX  | D8           |
  
 ---
