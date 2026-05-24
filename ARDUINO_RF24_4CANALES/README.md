@@ -74,22 +74,7 @@ El sistema consta de un transmisor con 4 botones con antirrebote y un receptor q
 conmuta 4 puertos de salida segun la senal recibida por radiofrecuencia.
  
 ---
- 
-## Estructura del repositorio
- 
-ARDUINO_RF24_4CANALES/
-├── Codigo/
-│   ├── transmisor.ino
-│   └── receptor.ino
-├── Diagrama/
-│   ├── transmisor.pdsprj
-│   └── receptor.pdsprj
-├── Imagenes/
-│   ├── esquema_transmisor.png
-│   └── esquema_receptor.png
-└── README.md
- 
----
+
  
 ## Como funciona
  
