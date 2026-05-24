@@ -1,4 +1,4 @@
-# 📡 ControlIna lámbrico de 4 Canales por RF NRF24L01 + Arduino Nano
+# 📡 ControlIna Inalámbrico de 4 Canales por RF NRF24L01 + Arduino Nano
  
 Control inalámbrico de 4 salidas independientes usando módulos NRF24L01 y Arduino Nano.
 El sistema consta de un transmisor con 4 botones con antirrebote y un receptor que
