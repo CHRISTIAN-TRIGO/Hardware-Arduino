@@ -7,7 +7,8 @@ conmuta 4 puertos de salida segun la senal recibida por radiofrecuencia.
 ---
  
 ## Estructura del repositorio
- 
+
+```text
 ARDUINO_RF24_4CANALES/
 ├── Codigo/
 │   ├── transmisor.ino
@@ -19,9 +20,10 @@ ARDUINO_RF24_4CANALES/
 │   ├── esquema_transmisor.png
 │   └── esquema_receptor.png
 └── README.md
- 
+```
+
 ---
- 
+
 ## Como funciona
  
 El transmisor lee 4 botones fisicos mediante la libreria a_rebote para eliminar el
